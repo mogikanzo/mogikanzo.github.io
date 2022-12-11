@@ -1,1 +1,1 @@
-# mogikanzo.github.io
+# mogikanzo.github.io/auth
